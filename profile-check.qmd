@@ -1,0 +1,38 @@
+---
+title: "What can the Hub currently see?"
+subtitle: "A public-evidence check for EBS staff"
+format:
+  html:
+    theme: cosmo
+    css: assets/profile-check.css
+    toc: false
+    include-after-body:
+      text: |
+        <script src="assets/profile-check.js"></script>
+---
+
+The checker summarises public professional information retrieved from the Monash Research Portal, ORCID and Google Scholar. It helps you spot stale or missing evidence before editing your profiles. It does not score or rank anyone.
+
+<div class="checker-shell">
+  <label for="person-select">Choose your name</label>
+  <select id="person-select">
+    <option value="">Select a person…</option>
+  </select>
+  <div id="loading" class="status">Loading the corpus snapshot…</div>
+  <div id="profile-result" hidden></div>
+</div>
+
+## What to look for
+
+Use three labels while you read:
+
+- **Right:** still represents you well
+- **Wrong:** stale roles, descriptions, keywords or records
+- **Missing:** recent work, useful assets, applications or partners
+
+When you finish, return to the [workshop slides](index.html).
+
+::: {.callout-note}
+This snapshot was built on 12 November 2026. A missing item means the source did not provide it in the snapshot. It does not mean the work does not exist. Public pages and search indexes may take time to reflect your changes.
+:::
+

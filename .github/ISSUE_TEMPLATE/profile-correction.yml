@@ -1,0 +1,34 @@
+name: Profile evidence correction
+description: Record something the public-evidence checker gets wrong or misses.
+title: "Profile correction: "
+labels: [profile-correction]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please include only public professional information. Do not add confidential project or partner details.
+  - type: input
+    id: person
+    attributes:
+      label: Name
+    validations:
+      required: true
+  - type: dropdown
+    id: source
+    attributes:
+      label: Source
+      options:
+        - Monash profile
+        - ORCID
+        - Google Scholar
+        - Hub checker
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What is wrong or missing?
+      description: Link to the corrected public source when possible.
+    validations:
+      required: true

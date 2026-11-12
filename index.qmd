@@ -1,0 +1,316 @@
+---
+title: "Profile pages that work for you"
+subtitle: "A 45-minute MonOA working session"
+author: "Monash Open Analytics Hub"
+format:
+  revealjs:
+    theme: [default, theme.scss]
+    slide-number: c/t
+    progress: true
+    transition: fade
+    background-transition: fade
+    width: 1600
+    height: 900
+    margin: 0.075
+    center: false
+    controls: true
+    hash: true
+    history: true
+    preview-links: auto
+    footer: "MonOA · Profile working session"
+    title-slide-attributes:
+      data-background-color: "#f7f3eb"
+---
+
+## Today’s 45 minutes {.agenda-slide}
+
+::: {.agenda-grid}
+::: {.agenda-block .brief}
+<span class="agenda-number">12</span>
+
+minutes of context
+
+Why profiles matter and what the Hub can currently see
+:::
+
+::: {.agenda-block .work}
+<span class="agenda-number">30</span>
+
+minutes of editing
+
+Check the evidence, then update the profiles that feed it
+:::
+
+::: {.agenda-block .close}
+<span class="agenda-number">3</span>
+
+minutes to finish
+
+Record anything the public sources still get wrong
+:::
+:::
+
+::: {.notes}
+Set expectations immediately. This is a working session, not a 45-minute talk. Ask everyone to have a laptop open.
+:::
+
+## The Hub can only connect what it can find {.statement-slide}
+
+<p class="statement">A clear profile helps the right people recognise your work, understand where it applies and start a useful conversation.</p>
+
+<div class="supporting-line">Partners · collaborators · students · funding opportunities · media</div>
+
+::: {.notes}
+Keep this short. The practical point is discoverability. Avoid framing profile maintenance as compliance or performance assessment.
+:::
+
+## What MonOA uses
+
+::: {.source-flow}
+::: {.source}
+<div class="panel-title">Monash profile</div>
+
+Role, biography, keywords, projects, engagement and visible outputs
+:::
+
+::: {.source}
+<div class="panel-title">ORCID</div>
+
+A stable identity and structured record of works
+:::
+
+::: {.source}
+<div class="panel-title">Google Scholar</div>
+
+Supplementary publication coverage and links
+:::
+
+::: {.source .result}
+<div class="panel-title">Hub evidence</div>
+
+A starting point for research translation, partnerships and funding conversations
+:::
+:::
+
+<p class="caveat">The corpus uses public professional information. It does not score or rank staff.</p>
+
+::: {.notes}
+Explain that the Hub’s corpus is an evidence layer, not a judgement. It is generated from public sources and then interpreted carefully by people.
+:::
+
+## Where the evidence drifts
+
+::: {.drift-grid}
+::: {.drift-item}
+<span class="drift-label">Old</span>
+
+A biography still centres work that has moved on.
+:::
+
+::: {.drift-item}
+<span class="drift-label">Missing</span>
+
+Recent projects, software, partners or outputs do not appear.
+:::
+
+::: {.drift-item}
+<span class="drift-label">Unclear</span>
+
+Keywords name a field but not the problems you can help solve.
+:::
+
+::: {.drift-item}
+<span class="drift-label">Split</span>
+
+ORCID, Scholar and the Monash profile tell different stories.
+:::
+:::
+
+::: {.notes}
+Invite quick recognition rather than discussion. Most participants will see at least one familiar failure mode.
+:::
+
+## What the corpus knows, and what it cannot know
+
+::: {.comparison}
+::: {.can-see}
+<div class="panel-title">It can see</div>
+
+- what your public profile says now
+- which recent outputs the source returns
+- visible projects, activities and keywords
+- missing public identifiers and source failures
+:::
+
+::: {.cannot-see}
+<div class="panel-title">It cannot see</div>
+
+- what you want to work on next
+- which partnerships are active behind the scenes
+- whether an omission is deliberate
+- the best way for MonOA to help
+:::
+:::
+
+<p class="bottom-emphasis">Your edits provide the missing judgement.</p>
+
+::: {.notes}
+This is the trust slide. State explicitly that absence from a source is not evidence that the work does not exist.
+:::
+
+## A useful profile answers four questions
+
+<ol class="four-questions">
+  <li><span>01</span><strong>What problems do you work on?</strong></li>
+  <li><span>02</span><strong>What methods, software or data do you bring?</strong></li>
+  <li><span>03</span><strong>Where has the work been used?</strong></li>
+  <li><span>04</span><strong>What kinds of conversations are welcome?</strong></li>
+</ol>
+
+::: {.notes}
+Ask participants to use these questions as an editing test. They do not need polished marketing copy; they need a truthful, current account in plain language.
+:::
+
+## The working target {.statement-slide .target-slide}
+
+<p class="statement">Make one public profile materially more accurate today.</p>
+
+<p class="substatement">Then fix the identifiers or publication records that most affect what others can find.</p>
+
+::: {.notes}
+Give permission to focus. A complete overhaul is not required. One strong biography edit or a cleaned publication record counts.
+:::
+
+## Open your evidence check {.launch-slide}
+
+<p class="url-line"><a href="profile-check.html">mikelydeamore.github.io/<strong>monoa-profile-workshop</strong>/profile-check.html</a></p>
+
+::: {.launch-steps}
+1. Choose your name.
+2. Compare the sources with what you know to be current.
+3. Keep the page open while you edit.
+:::
+
+<p class="caveat">Snapshot: 12 November 2026. Public professional sources only.</p>
+
+::: {.notes}
+Demo the checker for no more than two minutes. Point out the source links, retrieval date and the distinction between missing evidence and a genuine absence.
+:::
+
+## 1 · Evidence check <span class="time-chip">5 minutes</span> {.work-slide}
+
+::: {.work-instruction}
+<div class="panel-title">Mark three things</div>
+
+- **Right:** what still represents you well
+- **Wrong:** stale roles, descriptions, keywords or records
+- **Missing:** recent work, useful assets, applications or partners
+:::
+
+<p class="work-prompt">Start with the Monash profile summary. Use publications as a cross-check.</p>
+
+::: {.notes}
+Start a five-minute timer. Circulate. Ask people to write down changes before opening multiple editing systems.
+:::
+
+## 2 · Monash profile <span class="time-chip">10 minutes</span> {.work-slide}
+
+::: {.two-column-work}
+::: {.work-instruction}
+<div class="panel-title">Highest-value edits</div>
+
+- first two sentences of the biography
+- research keywords people would actually search
+- current projects and external applications
+- software, data, training or consulting links
+:::
+
+::: {.work-instruction .link-panel}
+<div class="panel-title">Open Pure</div>
+
+[Monash myResearch](https://www.monash.edu/myResearch/home)
+
+Use **Pure → Edit profile**. Preview the public version before saving.
+
+[Monash profile and author ID guide](https://www.monash.edu/library/researchers/researcher-profiles)
+:::
+:::
+
+::: {.notes}
+Tell participants to prioritise the top of the biography and keywords. Offer help locating Pure. If they lack access, have them draft the exact replacement text so the time still produces something useful.
+:::
+
+## 3 · ORCID and Scholar <span class="time-chip">8 minutes</span> {.work-slide}
+
+::: {.two-column-work}
+::: {.work-instruction}
+<div class="panel-title">ORCID</div>
+
+- check employment and preferred name
+- add missing works by DOI or import tool
+- make useful items publicly visible
+
+[Open your ORCID record](https://orcid.org/my-orcid)
+:::
+
+::: {.work-instruction}
+<div class="panel-title">Google Scholar</div>
+
+- remove work that is not yours
+- merge duplicates
+- add missing articles
+- check homepage and affiliation
+
+[Open Google Scholar](https://scholar.google.com/citations)
+:::
+:::
+
+::: {.notes}
+Participants do not need to perfect every record. Prioritise identity errors, publications that are not theirs, missing recent work and broken links.
+:::
+
+## 4 · The 30-second test <span class="time-chip">5 minutes</span> {.work-slide}
+
+::: {.test-sequence}
+<div><span>10 sec</span>What do you work on?</div>
+<div><span>10 sec</span>What can someone use or apply?</div>
+<div><span>10 sec</span>How should they start a conversation?</div>
+:::
+
+<p class="work-prompt">Pair up. Read only the top of each other’s public profile. Say what you understood.</p>
+
+::: {.notes}
+Pair people with someone outside their immediate area where possible. The listener should paraphrase, not edit. The profile owner notes one final improvement.
+:::
+
+## If you finish early
+
+::: {.early-list}
+- Add a link to useful software, data, a project page or training material.
+- Replace a broad keyword with language an external partner might search.
+- Check that ORCID and Scholar link back to a current homepage.
+- Note anything the corpus still misses after your edits.
+:::
+
+<p class="caveat">Public profiles and the Hub corpus will not update at the same speed.</p>
+
+::: {.notes}
+Use this slide while circulating. Remind participants that source refreshes and public indexing can lag behind their edits.
+:::
+
+## A better starting point for the Hub {.closing-slide}
+
+<p class="statement">Current profiles help MonOA bring you better-matched conversations.</p>
+
+<div class="closing-actions">
+<span>Save your edits</span>
+<span>Record unresolved corrections</span>
+<span>Tell us what you want the Hub to notice</span>
+</div>
+
+<p class="small-link"><a href="profile-check.html">Return to the evidence check</a></p>
+
+::: {.notes}
+Close by asking people to save, note unresolved access issues and tell the Hub about priorities that no public profile can infer. Reinforce that the goal is better support for their work.
+:::
+

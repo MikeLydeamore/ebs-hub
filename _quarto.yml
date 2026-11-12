@@ -1,0 +1,16 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - data/people.json
+
+website:
+  title: "MonOA profile workshop"
+  site-url: "https://mikelydeamore.github.io/monoa-profile-workshop/"
+  navbar: false
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+
