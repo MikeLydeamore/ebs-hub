@@ -1,7 +1,7 @@
 ---
 title: "Profile pages that work for you"
-subtitle: "A 45-minute MonOA working session"
-author: "Monash Open Analytics Hub"
+subtitle: "A 45-minute EBS Hub working session"
+author: "EBS Hub"
 format:
   revealjs:
     theme: [default, theme.scss]
@@ -17,12 +17,12 @@ format:
     hash: true
     history: true
     preview-links: auto
-    footer: "MonOA · Profile working session"
+    footer: "EBS Hub · Profile working session"
     title-slide-attributes:
       data-background-color: "#ffffff"
 ---
 
-## MonOA Mission
+## EBS Hub mission
 
 The Hub is platform for connecting the department's research, education, open-source software and external partnerships to maximise real-world impact.
 
@@ -98,7 +98,7 @@ It also helps me to work out what opportunities are useful for who, saving both 
 Keep this short. The practical point is discoverability. Avoid framing profile maintenance as compliance or performance assessment.
 :::
 
-## What MonOA uses
+## What the EBS Hub uses
 
 ::: {.source-flow}
 ::: {.source}
@@ -182,7 +182,7 @@ Invite quick recognition rather than discussion. Most participants will see at l
 - what you want to work on next
 - which partnerships are active behind the scenes
 - whether an omission is deliberate
-- the best way for MonOA to help
+- the best way for The Hub to help
 :::
 :::
 
@@ -218,12 +218,22 @@ Give permission to focus. A complete overhaul is not required. One strong biogra
 
 ## Open your evidence check {.launch-slide}
 
-<p class="url-line"><a href="profile-check.html">https://www.michaellydeamore.com/monoa-profile-workshop/profile-check.html</a></p>
+::: {.launch-layout}
+::: {.launch-copy}
+<p class="url-line"><a href="profile-check.html">michaellydeamore.com/ebs-hub</a></p>
 
 ::: {.launch-steps}
 1. Choose your name.
 2. Compare the sources with what you know to be current.
 3. Keep the page open while you edit.
+:::
+:::
+
+::: {.profile-qr-panel}
+<a href="https://www.michaellydeamore.com/ebs-hub/profile-check.html" aria-label="Open the EBS Hub profile check"><img src="assets/profile-check-qr.svg" alt="QR code linking to the EBS Hub profile check" class="profile-check-qr"></a>
+
+<p>Scan to open the profile check</p>
+:::
 :::
 
 <p class="caveat">Snapshot: 12 November 2026. Public professional sources only.</p>
@@ -313,7 +323,7 @@ Use this slide while circulating. Remind participants that source refreshes and 
 
 ## A better starting point for the Hub {.closing-slide}
 
-<p class="statement">Current profiles help MonOA bring you better-matched conversations.</p>
+<p class="statement">Current profiles help The Hub bring you better-matched conversations.</p>
 
 <div class="closing-actions">
 <span>Save your edits</span>

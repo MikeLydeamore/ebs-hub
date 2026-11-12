@@ -5,8 +5,8 @@ project:
     - data/people.json
 
 website:
-  title: "MonOA profile workshop"
-  site-url: "https://mikelydeamore.github.io/monoa-profile-workshop/"
+  title: "EBS Hub profile workshop"
+  site-url: "https://mikelydeamore.github.io/ebs-hub/"
   navbar: false
 
 format:

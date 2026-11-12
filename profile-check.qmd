@@ -11,7 +11,7 @@ format:
         <script src="assets/profile-check.js"></script>
 ---
 
-The checker summarises public professional information retrieved from the Monash Research Portal, ORCID and Google Scholar. It helps you spot stale or missing evidence before editing your profiles. It does not score or rank anyone.
+The checker summarises public professional information retrieved from the Monash Research Portal, ORCID and Google Scholar. It helps you spot stale or missing evidence before editing your profiles. It does not score or rank anyone. Private Hub notes, funding suggestions and internal assessments are not included.
 
 <div class="checker-shell">
   <label for="person-select">Choose your name</label>

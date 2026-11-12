@@ -1,6 +1,6 @@
-# MonOA profile workshop
+# EBS Hub profile workshop
 
-A 45-minute Quarto/reveal.js working session that helps EBS staff inspect what the MonOA public-evidence corpus currently sees, then improve their Monash Research Portal, ORCID and Google Scholar profiles.
+A 45-minute Quarto/reveal.js working session that helps EBS staff inspect what the EBS Hub public-evidence corpus currently sees, then improve their Monash Research Portal, ORCID and Google Scholar profiles.
 
 The session is deliberately weighted toward action:
 
@@ -21,7 +21,7 @@ The slide deck is `index.qmd`. The participant checker is `profile-check.qmd`.
 
 ## Refresh the participant checker
 
-The published `data/people.json` contains only public professional evidence from the generated MonOA corpus. It does not include curated Hub judgements, funding suggestions or internal notes.
+The published `data/people.json` contains only public professional evidence from the generated EBS Hub corpus. It does not include curated Hub judgements, funding suggestions or internal notes.
 
 From this repository, point the script at the Obsidian vault root:
 
