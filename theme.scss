@@ -132,7 +132,7 @@ $code-block-bg: #e6e6e6;
 .four-questions span { color: var(--red); font-size: 0.6em; font-weight: 800; letter-spacing: 0.08em; }
 
 .launch-slide { padding-top: 1.2em !important; }
-.url-line { font-size: 1.08em; line-height: 1.15; }
+.url-line { font-size: 1.08em; width: 100%; max-width: none; line-height: 1.15; overflow-wrap: anywhere; }
 .launch-steps { margin-top: 1.4em; font-size: 0.7em; }
 .launch-steps ol { margin-left: 0.7em; }
 .launch-steps li { margin-bottom: 0.45em; }
@@ -166,7 +166,9 @@ $code-block-bg: #e6e6e6;
 
 .closing-slide { padding-top: 1.25em !important; }
 .closing-slide h2 { display: none; }
-.closing-actions { display: flex; gap: 0.55em; margin-top: 1.35em; }
+.closing-slide .statement { max-width: none; }
+.closing-actions { width: 100%; margin-top: 1.35em; }
+.closing-actions > p { display: flex; width: 100%; gap: 0.55em; margin: 0; }
 .closing-actions span { background: var(--red); color: white; padding: 0.55em; font-size: 0.58em; flex: 1; border-top: 7px solid var(--blue); }
 .small-link { font-size: 0.48em; margin-top: 1.8em; }
 
