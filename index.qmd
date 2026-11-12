@@ -19,8 +19,39 @@ format:
     preview-links: auto
     footer: "MonOA · Profile working session"
     title-slide-attributes:
-      data-background-color: "#f7f3eb"
+      data-background-color: "#ffffff"
 ---
+
+## MonOA Mission
+
+The Hub is platform for connecting the department's research, education, open-source software and external partnerships to maximise real-world impact.
+
+::: {.mission-question}
+<p><strong>Question:</strong> What are the blockers for your work to connect through these themes?</p>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" aria-label="Open the linked video"><img src="assets/rickroll-qr.svg" alt="QR code linking to a video" class="rickroll-qr"></a>
+:::
+
+## What do we need? {.time-cloud-slide}
+
+<div class="time-cloud" role="img" aria-label="A word cloud in which Time is the largest word, surrounded by profile-related words">
+  <span class="cloud-word cloud-time">Time</span>
+  <span class="cloud-word cloud-current">Current</span>
+  <span class="cloud-word cloud-visible">Visible</span>
+  <span class="cloud-word cloud-profile">Profile</span>
+  <span class="cloud-word cloud-orcid">ORCID</span>
+  <span class="cloud-word cloud-projects">Projects</span>
+  <span class="cloud-word cloud-methods">Methods</span>
+  <span class="cloud-word cloud-partners">Partners</span>
+  <span class="cloud-word cloud-keywords">Keywords</span>
+  <span class="cloud-word cloud-outputs">Outputs</span>
+  <span class="cloud-word cloud-links">Links</span>
+  <span class="cloud-word cloud-conversations">Conversations</span>
+</div>
+
+::: {.notes}
+Pause on the visual joke: after the earlier word clouds, the only word that matters for the working session is time.
+:::
 
 ## Today’s 45 minutes {.agenda-slide}
 
@@ -54,11 +85,14 @@ Record anything the public sources still get wrong
 Set expectations immediately. This is a working session, not a 45-minute talk. Ask everyone to have a laptop open.
 :::
 
-## The Hub can only connect what it can find {.statement-slide}
+## The Hub can only connect what it can find {.statement-slide .full-width-statement}
 
 <p class="statement">A clear profile helps the right people recognise your work, understand where it applies and start a useful conversation.</p>
 
-<div class="supporting-line">Partners · collaborators · students · funding opportunities · media</div>
+::: {.fragment}
+It also helps me to work out what opportunities are useful for who, saving both of us (mainly you) time.
+:::
+
 
 ::: {.notes}
 Keep this short. The practical point is discoverability. Avoid framing profile maintenance as compliance or performance assessment.
@@ -181,9 +215,10 @@ Ask participants to use these questions as an editing test. They do not need pol
 Give permission to focus. A complete overhaul is not required. One strong biography edit or a cleaned publication record counts.
 :::
 
+
 ## Open your evidence check {.launch-slide}
 
-<p class="url-line"><a href="profile-check.html">mikelydeamore.github.io/<strong>monoa-profile-workshop</strong>/profile-check.html</a></p>
+<p class="url-line"><a href="profile-check.html">https://www.michaellydeamore.com/monoa-profile-workshop/profile-check.html</a></p>
 
 ::: {.launch-steps}
 1. Choose your name.
@@ -197,35 +232,35 @@ Give permission to focus. A complete overhaul is not required. One strong biogra
 Demo the checker for no more than two minutes. Point out the source links, retrieval date and the distinction between missing evidence and a genuine absence.
 :::
 
-## 1 · Evidence check <span class="time-chip">5 minutes</span> {.work-slide}
+## Updating your Monash profile in Pure {.pure-guide-slide}
 
-::: {.work-instruction}
-<div class="panel-title">Mark three things</div>
+<ol class="pure-steps">
+  <li><span>01</span><div><strong>Open myResearch</strong><small>Sign in and open Pure, the project, output and profile system.</small></div></li>
+  <li><span>02</span><div><strong>Choose Edit profile</strong><small>Start from your personal overview. Open the editor for your public profile.</small></div></li>
+  <li><span>03</span><div><strong>Update the useful fields</strong><small>Prioritise your biography, research interests, keywords and links.</small></div></li>
+  <li><span>04</span><div><strong>Preview, then save</strong><small>Check what the public page will show. Research outputs are managed through their own records.</small></div></li>
+</ol>
 
-- **Right:** what still represents you well
-- **Wrong:** stale roles, descriptions, keywords or records
-- **Missing:** recent work, useful assets, applications or partners
-:::
-
-<p class="work-prompt">Start with the Monash profile summary. Use publications as a cross-check.</p>
+<p class="pure-guide-links"><a href="https://www.monash.edu/myResearch/home">Open myResearch</a> · <a href="https://www.monash.edu/library/researchers/researcher-profiles">Profile and author ID guide</a></p>
 
 ::: {.notes}
-Start a five-minute timer. Circulate. Ask people to write down changes before opening multiple editing systems.
+Demonstrate these four actions live before starting the ten-minute editing block. Pure populates the public Monash researcher profile. The myResearch home page includes the current “Updating your Public Profile” quick guide and a separate guide for claiming research outputs.
+
+Sources: https://www.monash.edu/myResearch/home and https://www.monash.edu/library/researchers/researcher-profiles (accessed 12 November 2026).
 :::
 
-## 2 · Monash profile <span class="time-chip">10 minutes</span> {.work-slide}
+## 2 · Monash profile, ORCID & Scholar <span class="time-chip">10 minutes</span> {.work-slide}
 
-::: {.two-column-work}
-::: {.work-instruction}
 <div class="panel-title">Highest-value edits</div>
 
 - first two sentences of the biography
 - research keywords people would actually search
 - current projects and external applications
 - software, data, training or consulting links
-:::
 
-::: {.work-instruction .link-panel}
+::: {.three-column-work}
+
+::: {.work-instruction}
 <div class="panel-title">Open Pure</div>
 
 [Monash myResearch](https://www.monash.edu/myResearch/home)
@@ -234,15 +269,7 @@ Use **Pure → Edit profile**. Preview the public version before saving.
 
 [Monash profile and author ID guide](https://www.monash.edu/library/researchers/researcher-profiles)
 :::
-:::
 
-::: {.notes}
-Tell participants to prioritise the top of the biography and keywords. Offer help locating Pure. If they lack access, have them draft the exact replacement text so the time still produces something useful.
-:::
-
-## 3 · ORCID and Scholar <span class="time-chip">8 minutes</span> {.work-slide}
-
-::: {.two-column-work}
 ::: {.work-instruction}
 <div class="panel-title">ORCID</div>
 
@@ -266,21 +293,7 @@ Tell participants to prioritise the top of the biography and keywords. Offer hel
 :::
 
 ::: {.notes}
-Participants do not need to perfect every record. Prioritise identity errors, publications that are not theirs, missing recent work and broken links.
-:::
-
-## 4 · The 30-second test <span class="time-chip">5 minutes</span> {.work-slide}
-
-::: {.test-sequence}
-<div><span>10 sec</span>What do you work on?</div>
-<div><span>10 sec</span>What can someone use or apply?</div>
-<div><span>10 sec</span>How should they start a conversation?</div>
-:::
-
-<p class="work-prompt">Pair up. Read only the top of each other’s public profile. Say what you understood.</p>
-
-::: {.notes}
-Pair people with someone outside their immediate area where possible. The listener should paraphrase, not edit. The profile owner notes one final improvement.
+Tell participants to prioritise the top of the biography and keywords. Offer help locating Pure. If they lack access, have them draft the exact replacement text so the time still produces something useful.
 :::
 
 ## If you finish early
