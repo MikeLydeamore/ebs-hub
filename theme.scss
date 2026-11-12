@@ -78,9 +78,13 @@ $code-block-bg: #e6e6e6;
 .substatement { font-size: 0.78em; color: var(--blue); max-width: 24em; margin-top: 1.25em; }
 .target-slide { background: var(--sky); }
 
-.mission-question { display: grid; grid-template-columns: 1fr auto; gap: 1em; align-items: center; }
+.mission-question { width: 100%; }
 .mission-question p { margin: 0; }
-.rickroll-qr { display: block; width: 4.5em; height: 4.5em; padding: 0.18em; background: white; border: 4px solid var(--ink); }
+.mission-question .mission-url { font-size: 0.72em; margin-top: 0.55em; }
+.mission-qr-panel { width: 100%; margin-top: 0.35em; text-align: center; }
+.mission-qr-panel > p:first-child { width: 100%; margin: 0; font-size: 1em; }
+.mission-qr-panel > p:last-child { color: var(--blue); font-size: 0.5em; font-weight: 700; margin: 0.3em 0 0; }
+.reveal .rickroll-qr { display: block; width: 320px; height: 320px; padding: 7px; margin: 0 auto; background: white; border: 4px solid var(--blue); box-sizing: border-box; }
 
 .time-cloud-slide h2 { display: none; }
 .time-cloud {
@@ -133,13 +137,15 @@ $code-block-bg: #e6e6e6;
 
 .launch-slide { padding-top: 1.2em !important; }
 .url-line { font-size: 1.08em; width: 100%; max-width: none; line-height: 1.15; overflow-wrap: anywhere; }
-.launch-layout { display: grid; grid-template-columns: 1fr auto; gap: 1.2em; align-items: center; width: 100%; }
-.launch-steps { margin-top: 1.1em; font-size: 0.7em; }
+.launch-layout { display: grid; grid-template-columns: 1fr; gap: 0.55em; width: 100%; }
+.launch-steps { margin-top: 0.7em; font-size: 0.7em; }
 .launch-steps ol { margin-left: 0.7em; }
 .launch-steps li { margin-bottom: 0.45em; }
-.profile-qr-panel { text-align: center; min-width: 7em; }
-.profile-qr-panel p { color: var(--blue); font-size: 0.5em; font-weight: 700; margin: 0.45em 0 0; }
-.profile-check-qr { display: block; width: 6.4em; height: 6.4em; padding: 0.18em; margin: 0 auto; background: white; border: 4px solid var(--blue); }
+.launch-copy .caveat { margin: 0.55em 0 0; }
+.profile-qr-panel { width: 100%; padding: 0.42em 0 0.3em; text-align: center; box-sizing: border-box; }
+.profile-qr-panel > p:first-child { width: 100%; margin: 0; font-size: 1em; }
+.profile-qr-panel > p:last-child { color: var(--blue); font-size: 0.5em; font-weight: 700; margin: 0.3em 0 0; }
+.reveal .profile-check-qr { display: block; width: 320px; height: 320px; padding: 7px; margin: 0 auto; background: white; border: 4px solid var(--blue); box-sizing: border-box; }
 
 .pure-guide-slide { padding-top: 0.25em !important; }
 .pure-steps { list-style: none !important; margin: 0 !important; width: 100%; }

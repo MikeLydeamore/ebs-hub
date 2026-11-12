@@ -28,8 +28,12 @@ The Hub is platform for connecting the department's research, education, open-so
 
 ::: {.mission-question}
 <p><strong>Question:</strong> What are the blockers for your work to connect through these themes?</p>
+:::
 
+::: {.mission-qr-panel}
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" aria-label="Open the linked video"><img src="assets/rickroll-qr.svg" alt="QR code linking to a video" class="rickroll-qr"></a>
+
+<p>Scan for the answer</p>
 :::
 
 ## What do we need? {.time-cloud-slide}
@@ -220,13 +224,15 @@ Give permission to focus. A complete overhaul is not required. One strong biogra
 
 ::: {.launch-layout}
 ::: {.launch-copy}
-<p class="url-line"><a href="profile-check.html">michaellydeamore.com/ebs-hub</a></p>
+<p class="url-line"><a href="profile-check.html">https://www.michaellydeamore.com/ebs-hub/profile-check.html</a></p>
 
 ::: {.launch-steps}
 1. Choose your name.
 2. Compare the sources with what you know to be current.
 3. Keep the page open while you edit.
 :::
+
+<p class="caveat">Snapshot: 12 November 2026. Public professional sources only.</p>
 :::
 
 ::: {.profile-qr-panel}
@@ -235,8 +241,6 @@ Give permission to focus. A complete overhaul is not required. One strong biogra
 <p>Scan to open the profile check</p>
 :::
 :::
-
-<p class="caveat">Snapshot: 12 November 2026. Public professional sources only.</p>
 
 ::: {.notes}
 Demo the checker for no more than two minutes. Point out the source links, retrieval date and the distinction between missing evidence and a genuine absence.
