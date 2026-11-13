@@ -1,0 +1,6 @@
+interface:
+  display_name: "Researcher Profile Drafter"
+  short_description: "Draft evidence-grounded researcher profile copy"
+  default_prompt: "Use $researcher-profile-drafter to prepare a biography, keywords and verification checklist from this researcher's evidence and answers."
+policy:
+  allow_implicit_invocation: true

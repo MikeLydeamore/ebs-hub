@@ -255,7 +255,7 @@ Demo the checker for no more than two minutes. Point out the source links, retri
   <li><span>04</span><div><strong>Preview, then save</strong><small>Check what the public page will show. Research outputs are managed through their own records.</small></div></li>
 </ol>
 
-<p class="pure-guide-links"><a href="https://www.monash.edu/myResearch/home">Open myResearch</a> · <a href="https://www.monash.edu/library/researchers/researcher-profiles">Profile and author ID guide</a></p>
+<p class="pure-guide-links"><a href="https://www.monash.edu/myResearch/home">Open myResearch</a> · <a href="https://www.monash.edu/library/researchers/researcher-profiles">Profile and author ID guide</a> · <a href="profile-prompt.html">Open the Gemini prompt</a> · <a href="downloads/researcher-profile-drafter.zip" download>Download the agent skill</a></p>
 
 ::: {.notes}
 Demonstrate these four actions live before starting the ten-minute editing block. Pure populates the public Monash researcher profile. The myResearch home page includes the current “Updating your Public Profile” quick guide and a separate guide for claiming research outputs.

@@ -1,8 +1,11 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - "*.qmd"
   resources:
     - data/people.json
+    - downloads/researcher-profile-drafter.zip
 
 website:
   title: "EBS Hub profile workshop"

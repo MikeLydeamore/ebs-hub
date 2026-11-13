@@ -1,0 +1,35 @@
+---
+title: "Draft a clearer researcher profile"
+subtitle: "A copyable prompt for Gemini or another AI assistant"
+format:
+  html:
+    theme: cosmo
+    toc: false
+    code-copy: true
+    code-overflow: wrap
+---
+
+<style>
+pre code {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+</style>
+
+This prompt turns the public evidence in the [EBS Hub profile checker](profile-check.html), together with your own judgement, into a draft you can review. It does not update Pure or any other profile.
+
+## How to use it
+
+1. Open the profile checker and choose your name.
+2. Copy your current biography, keywords, recent outputs, visible projects or activities, and useful links into the marked evidence section.
+3. Answer the four short questions in the prompt.
+4. Copy the complete prompt below into Gemini or another AI assistant.
+5. Check every claim before pasting any approved text into Pure.
+
+## Copyable prompt
+
+```text
+{{< include skills/researcher-profile-drafter/references/gemini-prompt.md >}}
+```
+
+After reviewing the draft, return to the [workshop slides](index.html) or open [Monash myResearch](https://www.monash.edu/myResearch/home) to edit your profile.
