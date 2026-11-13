@@ -57,38 +57,6 @@ The Hub is platform for connecting the department's research, education, open-so
 Pause on the visual joke: after the earlier word clouds, the only word that matters for the working session is time.
 :::
 
-## Today’s 45 minutes {.agenda-slide}
-
-::: {.agenda-grid}
-::: {.agenda-block .brief}
-<span class="agenda-number">12</span>
-
-minutes of context
-
-Why profiles matter and what the Hub can currently see
-:::
-
-::: {.agenda-block .work}
-<span class="agenda-number">30</span>
-
-minutes of editing
-
-Check the evidence, then update the profiles that feed it
-:::
-
-::: {.agenda-block .close}
-<span class="agenda-number">3</span>
-
-minutes to finish
-
-Record anything the public sources still get wrong
-:::
-:::
-
-::: {.notes}
-Set expectations immediately. This is a working session, not a 45-minute talk. Ask everyone to have a laptop open.
-:::
-
 ## The Hub can only connect what it can find {.statement-slide .full-width-statement}
 
 <p class="statement">A clear profile helps the right people recognise your work, understand where it applies and start a useful conversation.</p>
@@ -130,71 +98,6 @@ A starting point for research translation, partnerships and funding conversation
 :::
 :::
 
-<p class="caveat">The corpus uses public professional information. It does not score or rank staff.</p>
-
-::: {.notes}
-Explain that the Hub’s corpus is an evidence layer, not a judgement. It is generated from public sources and then interpreted carefully by people.
-:::
-
-## Where the evidence drifts
-
-::: {.drift-grid}
-::: {.drift-item}
-<span class="drift-label">Old</span>
-
-A biography still centres work that has moved on.
-:::
-
-::: {.drift-item}
-<span class="drift-label">Missing</span>
-
-Recent projects, software, partners or outputs do not appear.
-:::
-
-::: {.drift-item}
-<span class="drift-label">Unclear</span>
-
-Keywords name a field but not the problems you can help solve.
-:::
-
-::: {.drift-item}
-<span class="drift-label">Split</span>
-
-ORCID, Scholar and the Monash profile tell different stories.
-:::
-:::
-
-::: {.notes}
-Invite quick recognition rather than discussion. Most participants will see at least one familiar failure mode.
-:::
-
-## What the corpus knows, and what it cannot know
-
-::: {.comparison}
-::: {.can-see}
-<div class="panel-title">It can see</div>
-
-- what your public profile says now
-- which recent outputs the source returns
-- visible projects, activities and keywords
-- missing public identifiers and source failures
-:::
-
-::: {.cannot-see}
-<div class="panel-title">It cannot see</div>
-
-- what you want to work on next
-- which partnerships are active behind the scenes
-- whether an omission is deliberate
-- the best way for The Hub to help
-:::
-:::
-
-<p class="bottom-emphasis">Your edits provide the missing judgement.</p>
-
-::: {.notes}
-This is the trust slide. State explicitly that absence from a source is not evidence that the work does not exist.
-:::
 
 ## A useful profile answers four questions
 
@@ -207,16 +110,6 @@ This is the trust slide. State explicitly that absence from a source is not evid
 
 ::: {.notes}
 Ask participants to use these questions as an editing test. They do not need polished marketing copy; they need a truthful, current account in plain language.
-:::
-
-## The working target {.statement-slide .target-slide}
-
-<p class="statement">Make one public profile materially more accurate today.</p>
-
-<p class="substatement">Then fix the identifiers or publication records that most affect what others can find.</p>
-
-::: {.notes}
-Give permission to focus. A complete overhaul is not required. One strong biography edit or a cleaned publication record counts.
 :::
 
 
@@ -232,7 +125,6 @@ Give permission to focus. A complete overhaul is not required. One strong biogra
 3. Keep the page open while you edit.
 :::
 
-<p class="caveat">Snapshot: 12 November 2026. Public professional sources only.</p>
 :::
 
 ::: {.profile-qr-panel}
@@ -263,7 +155,7 @@ Demonstrate these four actions live before starting the ten-minute editing block
 Sources: https://www.monash.edu/myResearch/home and https://www.monash.edu/library/researchers/researcher-profiles (accessed 12 November 2026).
 :::
 
-## 2 · Monash profile, ORCID & Scholar <span class="time-chip">10 minutes</span> {.work-slide}
+## 2 · Monash profile, ORCID & Scholar <span class="time-chip">15 minutes</span> {.work-slide}
 
 <div class="panel-title">Highest-value edits</div>
 
@@ -334,8 +226,6 @@ Use this slide while circulating. Remind participants that source refreshes and 
 <span>Record unresolved corrections</span>
 <span>Tell us what you want the Hub to notice</span>
 </div>
-
-<p class="small-link"><a href="profile-check.html">Return to the evidence check</a></p>
 
 ::: {.notes}
 Close by asking people to save, note unresolved access issues and tell the Hub about priorities that no public profile can infer. Reinforce that the goal is better support for their work.
